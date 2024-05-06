@@ -12,7 +12,6 @@ function sumarArray(arrayOfNumbers, cb) {
    }
 
    cb(sum);
-
 }
 
 module.exports = sumarArray;
